@@ -30,10 +30,9 @@ The cleaned dataset was then used to analyse trends in song characteristics.
 
 ## Dashboard
 
-### Songs Dashboard
+### Songs Analytics Dashboard Preview
 
-### Songs Dashboard
-(Please see attached power BI dashboard screenshots in song-analytics folder).
+![Songs Dashboard](https://github.com/oyeniyi-the-analyst/Songs_Data_Analytics/blob/main/dashboard_images/Executive_Overview_dashboard_1.png?raw=true)
 
 
 ## Data Pipeline
